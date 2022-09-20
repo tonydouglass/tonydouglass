@@ -15,9 +15,9 @@ Official Member of GhostSec
 </br></br>
 
 <p align="center">
-  <img width="200" src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" alt="Icons">
-  <img width="200" src="https://c.tenor.com/LmKTgSCWvQwAAAAi/this-is-the-end.gif" alt="Icons">
-  <img width="200" src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" alt="Icons">
+  <img width="100" src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" alt="Icons">
+  <img width="100" src="https://c.tenor.com/LmKTgSCWvQwAAAAi/this-is-the-end.gif" alt="Icons">
+  <img width="100" src="https://c.tenor.com/Ds6kZ-PWFzwAAAAi/haruhi-hare-hare-yukai.gif" alt="Icons">
 </p>
 </br>
 
